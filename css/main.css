@@ -1,8 +1,11 @@
 body {
-    background: black;
-    color: white;
+    background: #023047;
 }
 
 h1 {
-    color: yellow;
+    color: #ffb703;
+}
+
+p {
+    color: #8ecae6;
 }
